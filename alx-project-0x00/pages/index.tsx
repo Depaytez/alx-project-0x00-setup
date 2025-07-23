@@ -1,4 +1,5 @@
 import React from "react";
+// import Card from "@/components/Card";
 
 const Home: React.FC = () => {
   return (
@@ -8,6 +9,7 @@ const Home: React.FC = () => {
       <button className="border px-3 py-1 text-lg mt-3 bg-blue-500 text-white rounded-full">
         Get Started
       </button>
+      {/* <Card /> */}
     </main>
   );
 };
