@@ -15,6 +15,7 @@ const Card: React.FC = () => {
         <Pill title="Top Villa" />
         <Pill title="Self CheckIn" />
         <Pill title="Free Reschedule" />
+        {/* <Pill title="Philips Copy"/> */}
       </div>
       <div className="flex items-center justify-between">
         <div>
